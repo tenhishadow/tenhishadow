@@ -150,12 +150,12 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Jinja</span>
-                                <div class="bar" style="width: 9.395920604470891%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 9.478747116099012%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">12%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">HCL</span>
-                                <div class="bar" style="width: 1.5785146615511096%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.5766628866382513%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">2%</span>
                             </div>
                         </div>
