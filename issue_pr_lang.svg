@@ -123,14 +123,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="204.99830502664346" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="204.99830502664346" y="0" width="147.18752499609587" height="8" fill="#a52a22"/>
-                    <rect mask="url(#languages-bar)" x="352.18583002273937" y="0" width="65.85032433029507" height="8" fill="#844FBA"/>
-                    <rect mask="url(#languages-bar)" x="418.0361543530344" y="0" width="21.868927138999243" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="439.9050814920337" y="0" width="7.666345446996851" height="8" fill="#199f4b"/>
-                    <rect mask="url(#languages-bar)" x="447.5714269390305" y="0" width="5.965925322140161" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="453.53735226117067" y="0" width="5.528774553307865" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="459.06612681447854" y="0" width="0.9338731855214994" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="204.98620296964654" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="204.98620296964654" y="0" width="147.20599185318207" height="8" fill="#a52a22"/>
+                    <rect mask="url(#languages-bar)" x="352.1921948228286" y="0" width="65.8464368621611" height="8" fill="#844FBA"/>
+                    <rect mask="url(#languages-bar)" x="418.03863168498964" y="0" width="21.86763610879944" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="439.9062677937891" y="0" width="7.665892864964303" height="8" fill="#199f4b"/>
+                    <rect mask="url(#languages-bar)" x="447.5721606587534" y="0" width="5.965573124260874" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="453.5377337830143" y="0" width="5.528448162585958" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="459.06618194560025" y="0" width="0.9338180543997197" height="8" fill="#384d54"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
