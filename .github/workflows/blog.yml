@@ -1,0 +1,17 @@
+name: blog
+on:
+  schedule:
+    - cron: '0 9 * * *'
+  workflow_dispatch:
+  push: {branches: ["main"]}
+jobs:
+  blog:
+    name: blog
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@v2
+      - name: update posts
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://tenhishadow.github.io/index.xml"
