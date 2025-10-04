@@ -10,9 +10,9 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [MikroTik Watchdog: Why 127.0.0.1 is not a good way to Disable Watchdog Ping](https://tenhishadow.github.io/posts/2025-10-03-mikrotik_disable_watchdog_ping/)
 - [KCNA](https://tenhishadow.github.io/posts/2025-09-11-kcna/)
 - [Debian Upgrade Trixie](https://tenhishadow.github.io/posts/2025-08-18-debian-upgrade-trixie/)
 - [Automating Sonatype Nexus Repos with Terraform](https://tenhishadow.github.io/posts/2025-06-19-terraform_nexus/)
 - [Known but Overlooked: Onboard E1000 NIC Problems in Proxmox](https://tenhishadow.github.io/posts/2025-06-16-proxmox-e1000/)
-- [Handling Unreachable Hosts with Ansible](https://tenhishadow.github.io/posts/2025-06-03-ansible_skip_unreachable_mikrotiks/)
 <!-- BLOG-POST-LIST:END -->
