@@ -12,7 +12,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [CKAD](https://tenhishadow.github.io/posts/2026-01-04-ckad/)
 - [Overengineering Local DNS: High-Performance DNS Chain](https://tenhishadow.github.io/posts/2026-01-01-simple-homelab-dns/)
-- [AboutMe](https://tenhishadow.github.io/about/)
+- [About](https://tenhishadow.github.io/about/)
 - [Replacing Pipenv with UV and Taskfile for Python Ops](https://tenhishadow.github.io/posts/2025-12-28-replacing-pipenv-with-uv-taskfile/)
 - [Proxmox Firewall Configuration with Terraform](https://tenhishadow.github.io/posts/2025-12-11-proxmox-firewall-terraform/)
 <!-- BLOG-POST-LIST:END -->
