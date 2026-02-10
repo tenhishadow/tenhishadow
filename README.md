@@ -10,9 +10,9 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [KCSA](https://tenhishadow.github.io/posts/2026-02-04-kcsa/)
 - [Ansible Warp Drive: Faster Playbooks with Mitogen](https://tenhishadow.github.io/posts/2026-01-27-ansible-warp-drive-mitogen/)
 - [CKA](https://tenhishadow.github.io/posts/2026-01-18-cka/)
 - [CKAD](https://tenhishadow.github.io/posts/2026-01-04-ckad/)
 - [Overengineering Local DNS: High-Performance DNS Chain](https://tenhishadow.github.io/posts/2026-01-01-simple-homelab-dns/)
-- [About](https://tenhishadow.github.io/about/)
 <!-- BLOG-POST-LIST:END -->
