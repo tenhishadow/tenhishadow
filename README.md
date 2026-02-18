@@ -10,9 +10,9 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CNPA](https://tenhishadow.github.io/posts/certs/2026-02-18-cnpa/)
 - [CAPA](https://tenhishadow.github.io/posts/certs/2026-02-16-capa/)
 - [LFCS](https://tenhishadow.github.io/posts/certs/2026-02-13-lfcs/)
 - [CGOA](https://tenhishadow.github.io/posts/certs/2026-02-12-cgoa/)
 - [KCSA](https://tenhishadow.github.io/posts/certs/2026-02-04-kcsa/)
-- [Ansible Warp Drive: Faster Playbooks with Mitogen](https://tenhishadow.github.io/posts/2026-01-27-ansible-warp-drive-mitogen/)
 <!-- BLOG-POST-LIST:END -->
