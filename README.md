@@ -10,9 +10,9 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CNPA](https://tenhishadow.github.io/posts/certs/2026-02-18-cnpa/)
-- [CAPA](https://tenhishadow.github.io/posts/certs/2026-02-16-capa/)
-- [LFCS](https://tenhishadow.github.io/posts/certs/2026-02-13-lfcs/)
-- [CGOA](https://tenhishadow.github.io/posts/certs/2026-02-12-cgoa/)
-- [KCSA](https://tenhishadow.github.io/posts/certs/2026-02-04-kcsa/)
+- [Passed CNPA](https://tenhishadow.github.io/posts/certs/2026-02-18-cnpa/)
+- [Passed CAPA](https://tenhishadow.github.io/posts/certs/2026-02-16-capa/)
+- [Passed LFCS](https://tenhishadow.github.io/posts/certs/2026-02-13-lfcs/)
+- [Passed CGOA](https://tenhishadow.github.io/posts/certs/2026-02-12-cgoa/)
+- [Passed KCSA](https://tenhishadow.github.io/posts/certs/2026-02-04-kcsa/)
 <!-- BLOG-POST-LIST:END -->
