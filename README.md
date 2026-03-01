@@ -10,9 +10,9 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Became a Kubestronaut](https://tenhishadow.github.io/posts/certs/2026-02-28-kubestronaut/)
 - [Passed CKS](https://tenhishadow.github.io/posts/certs/2026-02-22-cks/)
 - [Passed CNPA](https://tenhishadow.github.io/posts/certs/2026-02-18-cnpa/)
 - [Passed CAPA](https://tenhishadow.github.io/posts/certs/2026-02-16-capa/)
 - [Passed LFCS](https://tenhishadow.github.io/posts/certs/2026-02-13-lfcs/)
-- [Passed CGOA](https://tenhishadow.github.io/posts/certs/2026-02-12-cgoa/)
 <!-- BLOG-POST-LIST:END -->
