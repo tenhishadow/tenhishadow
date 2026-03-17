@@ -10,9 +10,9 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Proxmox Kiosk Desktop Appliance: Windows VM, GPU Passthrough, and Fast Recovery](https://tenhishadow.github.io/posts/2026-03-16-proxmox-kiosk-desktop/)
 - [Became a Kubestronaut](https://tenhishadow.github.io/posts/certs/2026-02-28-kubestronaut/)
 - [Passed CKS](https://tenhishadow.github.io/posts/certs/2026-02-22-cks/)
 - [Passed CNPA](https://tenhishadow.github.io/posts/certs/2026-02-18-cnpa/)
 - [Passed CAPA](https://tenhishadow.github.io/posts/certs/2026-02-16-capa/)
-- [Passed LFCS](https://tenhishadow.github.io/posts/certs/2026-02-13-lfcs/)
 <!-- BLOG-POST-LIST:END -->
