@@ -1,6 +1,6 @@
 # Stanislav Cherkasov
 
-Platform / DevSecOps engineer focused on Kubernetes, GitOps, Linux automation, and secure software delivery.
+Senior DevOps / DevSecOps / Platform Engineer working with US/EU teams on cloud infrastructure, Kubernetes platforms, CI/CD, automation, and production operations.
 
 I prefer small, explicit systems that are easy to operate, audit, and recover.
 
@@ -10,11 +10,16 @@ Kubernetes, Argo CD, Docker, Terraform, CI/CD, Vault, Linux, observability, and 
 
 ## Selected Work
 
-- [dotfiles](https://github.com/tenhishadow/dotfiles) - Arch Linux workstation automation with Ansible, go-task, uv, and Neovim.
-- [golden-microservice](https://github.com/tenhishadow/golden-microservice) - Minimal HTTP service for Docker and Kubernetes deployment testing.
 - [mbkp](https://github.com/tenhishadow/mbkp) - Encrypted MikroTik backup automation over SSH.
+- [golden-microservice](https://github.com/tenhishadow/golden-microservice) - Minimal HTTP service for Docker and Kubernetes deployment testing.
+- [dotfiles](https://github.com/tenhishadow/dotfiles) - Arch Linux workstation automation with Ansible, go-task, uv, and Neovim.
 - [ansible-mitogen-benchmarks](https://github.com/tenhishadow/ansible-mitogen-benchmarks) - Reproducible Ansible strategy benchmarks.
 - [terraform-nexus-apt-proxy](https://github.com/tenhishadow/terraform-nexus-apt-proxy) - Terraform module for Nexus APT proxy repositories.
+- [mobile_ci_cd](https://github.com/tenhishadow/mobile_ci_cd) - React Native CI/CD example with CircleCI and Fastlane.
+
+## Certifications
+
+[Certification notes](https://tenhishadow.github.io/series/certification/) cover Kubernetes, cloud native, Linux, GitOps, and platform engineering exams.
 
 ## Writing
 
