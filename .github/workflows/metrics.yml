@@ -1,0 +1,47 @@
+name: Profile Metrics
+
+on:
+  schedule:
+    - cron: "11 5 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-metrics
+  cancel-in-progress: false
+
+jobs:
+  metrics:
+    name: Update profile metrics
+    runs-on: ubuntu-24.04
+    timeout-minutes: 20
+    steps:
+      - name: Isometric calendar
+        uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # latest
+        with:
+          filename: isocalendar.svg
+          token: ${{ secrets.METRICS_SECRET }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_message: "chore(metrics): update isometric calendar [skip ci]"
+          user: tenhishadow
+          template: classic
+          base: ""
+          config_timezone: Europe/Warsaw
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+
+      - name: Languages and follow-up
+        uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # latest
+        with:
+          filename: languages.svg
+          token: ${{ secrets.METRICS_SECRET }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_message: "chore(metrics): update languages [skip ci]"
+          user: tenhishadow
+          template: classic
+          base: ""
+          config_timezone: Europe/Warsaw
+          plugin_followup: yes
+          plugin_languages: yes

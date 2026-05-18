@@ -1,0 +1,30 @@
+name: Blog
+
+on:
+  schedule:
+    - cron: "23 5 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: blog
+  cancel-in-progress: false
+
+jobs:
+  blog:
+    name: Update README posts
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Update posts
+        uses: gautamkrishnar/blog-post-workflow@2786e54a01b71aec80a5118c2bd6b5044e842597 # 1.9.6
+        with:
+          feed_list: "https://tenhishadow.github.io/index.xml"
+          max_post_count: 5
+          enable_keepalive: false
+          commit_message: "docs(readme): update blog posts [skip ci]"
