@@ -13,9 +13,11 @@ Kubernetes, Argo CD, Docker, Terraform, CI/CD, Vault, Linux, observability, and 
 - [mbkp](https://github.com/tenhishadow/mbkp) - Encrypted MikroTik backup automation over SSH.
 - [golden-microservice](https://github.com/tenhishadow/golden-microservice) - Minimal HTTP service for Docker and Kubernetes deployment testing.
 - [dotfiles](https://github.com/tenhishadow/dotfiles) - Arch Linux workstation automation with Ansible, go-task, uv, and Neovim.
+- [fastapi-k8s-gitops-task] - Archived real hiring task: FastAPI service with CI/CD, Docker, GHCR, Kubernetes manifests, and GitOps deployment flow.
 - [ansible-mitogen-benchmarks](https://github.com/tenhishadow/ansible-mitogen-benchmarks) - Reproducible Ansible strategy benchmarks.
 - [terraform-nexus-apt-proxy](https://github.com/tenhishadow/terraform-nexus-apt-proxy) - Terraform module for Nexus APT proxy repositories.
-- [mobile_ci_cd](https://github.com/tenhishadow/mobile_ci_cd) - React Native CI/CD example with CircleCI and Fastlane.
+
+[fastapi-k8s-gitops-task]: https://github.com/tenhishadow/technical-task-d8d023e3-28cb-4b2e-a6c3-04cbe805f482
 
 ## Certifications
 
