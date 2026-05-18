@@ -1,6 +1,6 @@
 # Stanislav Cherkasov
 
-Senior DevOps / DevSecOps / Platform Engineer working with US/EU teams on cloud infrastructure, Kubernetes platforms, CI/CD, automation, and production operations.
+Senior {DevOps,DevSecOps,Platform} Engineer working with US/EU teams on cloud infrastructure, Kubernetes platforms, CI/CD, automation, and production operations.
 
 I prefer small, explicit systems that are easy to operate, audit, and recover.
 
