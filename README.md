@@ -26,11 +26,11 @@ Kubernetes, Argo CD, Docker, Terraform, CI/CD, Vault, Linux, observability, and 
 ## Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [Day 2 With the RTX PRO 4000 Blackwell SFF: One GPU LLM Lane in k3s](https://tenhishadow.github.io/posts/ai/2026-07-02-rtx-pro-4000-day-2-k3s-gpu-lane/)
 - [Państwowy egzamin B2](https://tenhishadow.github.io/posts/certs/2026-04-22-polski-b2/)
 - [Proxmox Kiosk Desktop Appliance: Windows VM, GPU Passthrough, and Fast Recovery](https://tenhishadow.github.io/posts/2026-03-16-proxmox-kiosk-desktop/)
 - [Became a Kubestronaut](https://tenhishadow.github.io/posts/certs/2026-02-28-kubestronaut/)
 - [Passed CKS](https://tenhishadow.github.io/posts/certs/2026-02-22-cks/)
-- [Passed CNPA](https://tenhishadow.github.io/posts/certs/2026-02-18-cnpa/)
 <!-- BLOG-POST-LIST:END -->
 
 ## GitHub Activity
