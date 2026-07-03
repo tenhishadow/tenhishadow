@@ -1,6 +1,6 @@
 # Stanislav Cherkasov
 
-Senior {DevOps,DevSecOps,Platform} Engineer working with US/EU teams on cloud infrastructure, Kubernetes platforms, CI/CD, automation, and production operations.
+Senior {DevOps,DevSecOps,Platform} Engineer working with US/EU teams on cloud infrastructure, Kubernetes platforms, CI/CD, automation, and production operations. **CNCF Kubestronaut** — all five Kubernetes certifications, currently active.
 
 I prefer small, explicit systems that are easy to operate, audit, and recover.
 
@@ -20,6 +20,9 @@ Kubernetes, Argo CD, Docker, Terraform, CI/CD, Vault, Linux, observability, and 
 [fastapi-k8s-gitops-task]: https://github.com/tenhishadow/technical-task-d8d023e3-28cb-4b2e-a6c3-04cbe805f482
 
 ## Certifications
+
+**CNCF Kubestronaut** — CKA, CKAD, CKS, KCNA, and KCSA, all active at the same time.
+Verify: [Kubestronaut program](https://www.cncf.io/training/kubestronaut/) · [how I got there](https://tenhishadow.github.io/posts/certs/2026-02-28-kubestronaut/)
 
 [Certification notes](https://tenhishadow.github.io/series/certification/) cover Kubernetes, cloud native, Linux, GitOps, and platform engineering exams.
 
@@ -42,4 +45,4 @@ Kubernetes, Argo CD, Docker, Terraform, CI/CD, Vault, Linux, observability, and 
 
 ## Contact
 
-[Blog](https://tenhishadow.github.io) · [LinkedIn](https://www.linkedin.com/in/stanislav-cherkasov-474a76120/)
+[Blog](https://tenhishadow.github.io) · [LinkedIn](https://www.linkedin.com/in/stanislav-cherkasov/)
