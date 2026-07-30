@@ -29,11 +29,11 @@ Verify: [Kubestronaut program](https://www.cncf.io/training/kubestronaut/) · [h
 ## Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [0 RPM, 24/7, 2 Years: A Fanless Proxmox Power Node](https://tenhishadow.github.io/posts/fanless-proxmox-node-asus-pn64-akasa/)
+- [Samsung 990 PRO Wear Bug: Flashing Firmware from a Live Linux System](https://tenhishadow.github.io/posts/2026-07-28-samsung-990-pro-firmware-linux/)
 - [A Read-Only SRE Agent for My Kubernetes Homelab](https://tenhishadow.github.io/posts/ai/2026-07-15-read-only-sre-agent/)
 - [One GPU, One LLM Lane: Operating an RTX PRO 4000 SFF in k3s](https://tenhishadow.github.io/posts/ai/2026-07-02-rtx-pro-4000-day-2-k3s-gpu-lane/)
 - [Państwowy egzamin B2](https://tenhishadow.github.io/posts/certs/2026-04-22-polski-b2/)
-- [Proxmox Kiosk Desktop Appliance: Windows VM, GPU Passthrough, and Fast Recovery](https://tenhishadow.github.io/posts/2026-03-16-proxmox-kiosk-desktop/)
-- [Became a Kubestronaut](https://tenhishadow.github.io/posts/certs/2026-02-28-kubestronaut/)
 <!-- BLOG-POST-LIST:END -->
 
 ## GitHub Activity
