@@ -29,11 +29,11 @@ Verify: [Kubestronaut program](https://www.cncf.io/training/kubestronaut/) · [h
 ## Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [Speech-to-Text on Intel Iris Xe, Part 4: Open WebUI Dictation, Voice Calls and Long Recordings](https://tenhishadow.github.io/posts/ai/2026-10-16-speech-to-text-in-daily-use/)
+- [Speech-to-Text on Intel Iris Xe, Part 3: Testing Whisper Accuracy with FLEURS and Common Voice](https://tenhishadow.github.io/posts/ai/2026-10-15-speech-to-text-frozen-evaluation/)
 - [Speech-to-Text on Intel Iris Xe, Part 2: Building and Releasing Container Images](https://tenhishadow.github.io/posts/ai/2026-10-14-speech-to-text-container-images/)
 - [Speech-to-Text on Intel Iris Xe, Part 1: Giving Idle GPUs a Job](https://tenhishadow.github.io/posts/ai/2026-10-13-speech-to-text-on-intel-xe/)
 - [RTX PRO 6000 Blackwell Max-Q: Proxmox Passthrough for Local AI](https://tenhishadow.github.io/posts/ai/2026-10-07-rtx-pro-6000-max-q-onboarding-checklist/)
-- [0 RPM, 24/7, 2 Years: A Fanless Proxmox Power Node](https://tenhishadow.github.io/posts/fanless-proxmox-node-asus-pn64-akasa/)
-- [Samsung 990 PRO Wear Bug: Flashing Firmware from a Live Linux System](https://tenhishadow.github.io/posts/2026-07-28-samsung-990-pro-firmware-linux/)
 <!-- BLOG-POST-LIST:END -->
 
 ## GitHub Activity
